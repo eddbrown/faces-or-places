@@ -1,0 +1,6 @@
+training/converted_data/*
+training/sourced_data/*
+training/onfido_images/*
+training/sourced_data_extra/*
+server/__pycache__/*
+*.jpg
